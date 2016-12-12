@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <link href="https://fonts.googleapis.com/css?family=Russo+One" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Orbitron:900" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="css/style.css">
+    <title></title>
+  </head>
+  <body>
+    <div class="container">
+      <p>Kong's Adventures</p>
+      <div class="menu hidden">
+        <div class="nav">
+          <p>Menu</p>
+          <a>Start Game</a>
+          <a>How to Play</a>
+        </div>
+        <div class="score">
+          <div class = "first">
+            <p class="scoretitle">Score</p>
+            <p id="currentscore">0</p>
+          </div>
+          <div class = "second">
+            <p class="scoretitle">Highscore</p>
+            <p id="highscore">0</p>
+          </div>
+        </div>
+    </div>
+    <div class="game">
+      <canvas id="canvas"></canvas>
+    </div>
+    <script src="https://code.jquery.com/jquery-2.2.4.min.js"></script>
+    <script type="text/javascript" src="main.js"></script>
+  </body>
+</html>
