@@ -17,5 +17,6 @@ R to restart
 git fork the repo into your own github
 git clone it into your directory
 git checkout branch gh-pages
-git push origin gh-pages:gh-pages **
-At this point, navigate to https://<username>.github.io/<foldername>/
+git push origin gh-pages:gh-pages
+**
+At this point, navigate to https://username.github.io/foldername/
