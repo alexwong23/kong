@@ -14,9 +14,8 @@ A, S, D or Left, Down, Right to move and bounce
 R to restart
 
 # How to deploy to github
-git fork the repo into your own github
-git clone it into your directory
-git checkout branch gh-pages
-git push origin gh-pages:gh-pages
-**
-At this point, navigate to https://username.github.io/foldername/
+* git fork the repo into your own github
+* git clone it into your directory
+* git checkout branch gh-pages
+* git push origin gh-pages:gh-pages
+* **At this point, navigate to https://username.github.io/foldername/
