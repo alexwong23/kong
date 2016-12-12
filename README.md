@@ -18,4 +18,4 @@ R to restart
 * git clone it into your directory
 * git checkout branch gh-pages
 * git push origin gh-pages:gh-pages
-* **At this point, navigate to https://username.github.io/foldername/
+* At this point, navigate to https://username.github.io/foldername/
