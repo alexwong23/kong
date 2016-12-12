@@ -6,15 +6,14 @@ A canvas html5 game with front end vanilla javascript.
 Game concept adopted from Doodle jump.
 * Warning difficulty level high
 
-Objective:
+# Objective:
 Jump as high as you can
 
-Controls:
+# Controls:
 A, S, D or Left, Down, Right to move and bounce
 R to restart
 
-How to deploy to github
-
+# How to deploy to github
 git fork the repo into your own github
 git clone it into your directory
 git checkout branch gh-pages
